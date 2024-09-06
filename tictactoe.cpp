@@ -44,6 +44,7 @@ int main(int argc, char const *argv[])
             break;
         }
     }
+    std::getchar();
     return 0;
 }
 
